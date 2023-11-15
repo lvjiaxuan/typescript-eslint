@@ -163,6 +163,7 @@ jobs:
         package:
           [
             'ast-spec',
+            'core',
             'eslint-plugin',
             'eslint-plugin-internal',
             'eslint-plugin-tslint',
